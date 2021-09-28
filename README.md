@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Demba3/Twitter-Clone/blob/master/walkthough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Demba3/Twitter-Clone/blob/master/walkthough-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
